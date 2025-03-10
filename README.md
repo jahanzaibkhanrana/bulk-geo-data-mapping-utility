@@ -1,4 +1,4 @@
-# Google Geolocation Script
+# Google Bulk Geolocation Script
 
 ## Overview
 
