@@ -83,6 +83,6 @@ This script is licensed under the Apache 2.0 License. See the LICENSE file for m
 
 ---
 
-**Author:** [Your Name]
-**Last Updated:** [Date]
+**Author:** Jahanzaib Khan - jahanzaib.khan.rana@gmail.com
+**Last Updated:** 10th March 2025
 
